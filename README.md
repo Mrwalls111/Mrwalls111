@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mrwalls111
 - 👀 I’m a tech enthusiast
-- 🌱 I’m currently learning Web3 development (Solidity, smart contracts, etc)
+- 🌱 I recently completed the Data Analytics Certificate from Google
 - 📫 How to reach me: @mr_walls11 on Twitter 🐦
 
 <!---
